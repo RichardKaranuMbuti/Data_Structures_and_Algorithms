@@ -1,4 +1,6 @@
 # ICS 2105: Data Structures and Algorithms
+## REG NO: SCT212-0062/2019
+## NAME: Richard Karanu Mbuti
 
 ## Table of Contents
 
