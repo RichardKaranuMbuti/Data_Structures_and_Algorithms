@@ -24,8 +24,15 @@
 - `quiz 1.java`
 - `quiz 1.py`
 
+
+### Quiz 2
+
+- `question1.py`
+- `question2.py`
+- `question3.py`
+
 ### Practise
 
-  - Please ignore this directory I use it to practise outside unit requirements
+  -  Practise outside unit requirements
 
 
